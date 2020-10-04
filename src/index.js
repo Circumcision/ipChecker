@@ -42,3 +42,4 @@ var chosenValue = Math.random() < 0.5 ? isFalse : isTrue;
 
 console.log(chosenValue)
 
+console.log('Made by Circumcision / js')
